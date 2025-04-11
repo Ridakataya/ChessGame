@@ -1,1 +1,38 @@
-This is documentation about Chess Game
+# Chess Game
+
+**Chess** is a two-player strategic board game with a history spanning over a thousand years. Played on an 8x8 checkered board, the game involves 64 squares and 32 pieces—16 for each player. One player controls the white pieces, and the other controls the black pieces. The objective is to **checkmate** the opponent’s king, meaning the king is under threat of capture and cannot escape.
+
+## Starting Setup
+
+Each player begins with:
+
+- 1 King  
+- 1 Queen  
+- 2 Rooks  
+- 2 Knights  
+- 2 Bishops  
+- 8 Pawns
+
+## Piece Movements
+
+- **Pawns**: Move forward one square (two on their first move), capture diagonally.
+- **Rooks**: Move horizontally or vertically across the board.
+- **Knights**: Move in an “L” shape and can jump over other pieces.
+- **Bishops**: Move diagonally.
+- **Queens**: Move in any direction—horizontally, vertically, or diagonally.
+- **Kings**: Move one square in any direction.
+
+## Phases of the Game
+
+1. **Opening** – Players develop their pieces and fight for control of the center.
+2. **Middlegame** – Players plan attacks, defenses, and execute tactics.
+3. **Endgame** – Few pieces remain, and the focus shifts to checkmating or drawing.
+
+## Objective
+
+The goal is to **checkmate** your opponent’s king, which occurs when the king is in a position to be captured ("in check") and has no legal moves to escape.
+
+## Popularity
+
+Chess is played both recreationally and competitively worldwide. It's a game of deep strategy and tactics, with countless variations. Major tournaments include the prestigious **World Chess Championship**, and platforms like Chess.com and Lichess allow millions of players to compete online daily.
+
